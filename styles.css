@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#head1 {
+    background-color: #0A4F39;
+    font-weight: bold;
+    font-size: 2em;
+    color: #DFDFDF;
+    text-align: center;
+    padding: 15px;
+}
+
+#head2 {
+    font-size: 1.1em;
+    line-height: 28px;
+}
+
+#form1 {
+    background-color: #999;
+    width: 40em;
+    height: 6em;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+    border-style: dashed;
+}
+
+#id-letter {
+    float: none;
+    font-size: 70px;
+    margin-right: auto;
+    display: block;
+    margin-left: auto;
+    width: 70px;
+}
